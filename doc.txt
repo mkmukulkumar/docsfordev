@@ -1,0 +1,10 @@
+SOURCE https://www.youtube.com/watch?v=K8YELRmUb5o
+
+installation express
+npm i express body-parse bcrypt cors dotenv grifs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose
+"type":"module", in package json
+
+pass mongo - z5qDTUub0rsGJMDR
+
+installation react
+npm install react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material
